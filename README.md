@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm **Mikhail**, a **System Administrator ** from Omsk, Russia. Since October 2024, I’ve been working at **ITB**, managing servers, ensuring their security, and protecting web applications.
+I'm **Mikhail**, a **System Administrator** from Omsk, Russia. Since October 2024, I’ve been working at **ITB**, managing servers, ensuring their security, and protecting web applications.
 
 ## 📫 Contacts  
 - You can write me at `@deen0z` on **Telegram**. I’m open to discussions on **system administration, and IT infrastructure**.
